@@ -8,5 +8,5 @@ import ReactDOM from "react-dom";
 import Semaforo from "./component/Semaforo.jsx";
 
 //render your react application
-ReactDOM.render(<Semaforo />, document.querySelector("#app"));
+ReactDOM.render(<Semaforo  />, document.querySelector("#app"));
  
